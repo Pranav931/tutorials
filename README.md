@@ -1,6 +1,6 @@
 # My Tutorials
 ## How to run
-All  exercises are written with a main method, pick  an exercise and execute to see the results
+All  exercises are written with a main method, Pick an exercise and execute to see the results
 
 ## Tutorial 1: Sum of powered numbers
 Squares.java
