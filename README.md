@@ -16,6 +16,11 @@ Ex:
 25  = 625 
 
 Written in `Automorphic.java`
+
+## Tutorial 3: Prime number
+To find if a given number is a prime or not
+
+Written in `Prime.java`
     
 
 
