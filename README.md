@@ -21,6 +21,11 @@ Written in `automorphic.java`
 To find if a given number is a prime or not
 
 Written in `prime.java`
+
+## Tutorial 4: Fibonacci series
+To display the first ten terms in the fibonacci series
+
+Written in 'fibonacci.java'
     
 
 
