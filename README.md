@@ -25,7 +25,14 @@ Written in `prime.java`
 ## Tutorial 4: Fibonacci series
 To display the first ten terms in the fibonacci series
 
-Written in 'fibonacci.java'
+Written in `fibonacci.java`
+
+## Tutorial 5: Armstrong number
+To find if the entered number is an armstrong munber pr not
+An armstrong number is a number if it is equal to the sum of the cubes of its digits
+
+Written in `armsrong.java`
+
     
 
 
