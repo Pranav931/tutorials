@@ -29,6 +29,7 @@ Written in `fibonacci.java`
 
 ## Tutorial 5: Armstrong number
 To find if the entered number is an armstrong munber pr not
+
 An armstrong number is a number if it is equal to the sum of the cubes of its digits
 
 Written in `armsrong.java`
