@@ -38,6 +38,11 @@ Written in `armsrong.java`
 To accept a choice from the user and display the respective pattern
 
 Written in `patterns.java`
+
+## Tutorial 7: Prime numbers
+To accept a number from the user and generate then display the next consecutive 20 prime numbers
+
+Written in `prime_numbers.java`
     
 
 
