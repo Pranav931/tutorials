@@ -34,6 +34,10 @@ An armstrong number is a number if it is equal to the sum of the cubes of its di
 
 Written in `armsrong.java`
 
+## Tutorial 6: Patterns
+To accept a choice from the user and display the respective pattern
+
+Written in `patterns.java`
     
 
 
