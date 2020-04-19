@@ -43,6 +43,11 @@ Written in `patterns.java`
 To accept a number from the user and generate then display the next consecutive 20 prime numbers
 
 Written in `prime_numbers.java`
+
+## Tutorial 8: Double letters
+To accept a string and display the number of double letter sequences that exist in the string
+
+Written in `double_letters.java`
     
 
 
